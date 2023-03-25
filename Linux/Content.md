@@ -1,0 +1,22 @@
+- [[Users-and-permissions]]
+	- What are users and groups?
+	- Managing users
+		- To create a new Linux user
+		- To modify a Linux user
+		- Accessing a user configuration file
+		- To modify a Linux user
+		- Change the user ID for a user
+		- Change the user login name
+		- To delete a Linux user
+	- Manage groups
+		- To create a group
+		- Modify the group ID of a user
+	- Superuser access
+	- File permissions & ownership
+		- To change permissions on a file or directory
+		- change ownership of a file/directory
+		- Example
+	- How to manage permissions?
+		- How to use absolute mode?
+		- How do I use symbolic mode?
+	- Sticky bit
