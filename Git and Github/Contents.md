@@ -1,28 +1,27 @@
-- [[01 What is Git ?]] 
+- [[01 What is Git ?]]
 - [[02 Version Control System (VCS)]]
 - [[03 Types of Version Control System (VCS)]]
-	- Local Version Control System
-	- Centralized Version Control System
-	- Distributed Version Control System
+  - Local Version Control System
+  - Centralized Version Control System
+  - Distributed Version Control System
 - [[04 How was Git created ?]]
 - [[05 How Git is different from other Version Control System ?]]
-	- Snapshorts,  Not Differences
-	- Nearly Every Operation Is Local
-	- Git Has Integrity
-	- Git Generally Only Adds Data
+  - Snapshorts, Not Differences
+  - Nearly Every Operation Is Local
+  - Git Has Integrity
+  - Git Generally Only Adds Data
 - [[06 Architechure of Git]]
-	- The Three States
-	- The basic Git workflow
+  - The Three States
+  - The basic Git workflow
 - [[07 Installing Git]]
-	- Installing on Linux
-	- Installing on macOS
-	- Installing on Windows
-	- Installing from Source
+  - Installing on Linux
+  - Installing on macOS
+  - Installing on Windows
+  - Installing from Source
 - [[08 First-Time Git Setup]]
-	- Git Config
-	- Your Identity
-	- Your Editor
-	- Your default branch name
-	- Checking Your Settings
+  - Git Config
+  - Your Identity
+  - Your Editor
+  - Your default branch name
+  - Checking Your Settings
 - [[09 Getting Help]]
-

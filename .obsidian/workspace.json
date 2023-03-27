@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66cf6e02bc21575c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS architecture flow for Chingari's lite version on Aptos.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0e2bec10dbdded73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "os-contributor-assignment-for-gari-repo-mantainance-Deepjyoti-Sarmah.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e713e2a1b8aaf2e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git and Github/Contents.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tmux.md",
+                "file": "os-contributor-assignment-for-gari-repo-mantainance-Deepjyoti-Sarmah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tmux.md",
+                "file": "os-contributor-assignment-for-gari-repo-mantainance-Deepjyoti-Sarmah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tmux.md"
+                "file": "os-contributor-assignment-for-gari-repo-mantainance-Deepjyoti-Sarmah.md"
               }
             }
           }
@@ -147,20 +184,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e8977fd659719d5",
+  "active": "0e2bec10dbdded73",
   "lastOpenFiles": [
-    "Linux/Users-and-permissions.md",
-    "Tmux.md",
+    "Architecture flow for Chingari's lite version on Aptos.md",
+    "os-contributor-assignment-for-gari-repo-mantainance-Deepjyoti-Sarmah.md",
+    "Git and Github/Contents.md",
     "Linux/Content.md",
+    "Git and Github/08 First-Time Git Setup.md",
+    "Git and Github/09 Getting Help.md",
+    "Git and Github/01 What is Git ?.md",
+    "OS architecture flow for Chingari's lite version on Aptos.md",
+    "Git and Github/03 Types of Version Control System (VCS).md",
+    "Tmux.md",
+    "Linux/Users-and-permissions.md",
     "2023-03-25.md",
     "Resume.md",
     "FEAL.md",
     "Pasted image 20230104203248.png",
     "Pasted image 20230104202607.png",
     "Pasted image 20230104200930.png",
-    "Git and Github/01 What is Git ?.md",
     "Pasted image 20230104201705.png",
-    "Blockchain/Go/Book-Blockchain.md",
-    "Git and Github/09 Getting Help.md"
+    "Blockchain/Go/Book-Blockchain.md"
   ]
 }
