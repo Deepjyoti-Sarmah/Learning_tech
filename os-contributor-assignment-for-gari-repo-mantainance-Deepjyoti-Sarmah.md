@@ -10,6 +10,7 @@
 	- System architecture design
 	- How it Works
 
+
 ### Architecture flow for Chingari's lite version on Aptos:
 
 The system architecture for Chingari's lite version on Aptos should be designed in a way that allows it to scale easily as more users join the platform. It should also be secure, reliable, and efficient to provide a good user experience. Here's an example of how this could be achieved:

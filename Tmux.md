@@ -24,7 +24,8 @@
 |ctrl+b  x| kill the current pane|
 |ctrk+b &| kill the current window|
 |ctrl+b d| ditach the current clielt|
-
+|ctrl+b s| check different session|
+|ctrl+b n/p| move throw next or previous window|
 ```
 	tmux attach --> opens to last sessions
 	tmux ls ---> shows the different sessions
