@@ -13,7 +13,7 @@
 |ctrl+b f| search window from prompt window|
 |ctrl+b %| split pane into two, left and right|
 |ctrl+b ""| split pane into two, top and bottom|
-|ctrl+b spacebar(⎵)|arrange the panes|
+|ctrl+b spacebar[⎵]|arrange the panes|
 |ctrl+b  ↑↓→←| to move pane up, down, left and right|
 |ctrl+b o| to toggle between pane|
 |ctrl+b ctrl+↑/ctrl+↓| to resize the pane up or down|
@@ -25,7 +25,7 @@
 |ctrk+b &| kill the current window|
 |ctrl+b d| ditach the current clielt|
 |ctrl+b s| check different session|
-|ctrl+b n/p| move throw next or previous window|
+
 ```
 	tmux attach --> opens to last sessions
 	tmux ls ---> shows the different sessions
