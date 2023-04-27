@@ -25,6 +25,7 @@
 |ctrk+b &| kill the current window|
 |ctrl+b d| ditach the current clielt|
 |ctrl+b s| check different session|
+|ctrl+b { and }| to move the pane| 
 
 ```
 	tmux attach --> opens to last sessions
