@@ -1,0 +1,18 @@
+- What is learn by doing ?
+	- An approach to learning that exphasises practical hands-on experience over theoretical knowledge .
+	- Instead of simply reading, watching, or studyinng about the subject , learners actively engage with the subject matter by working on projects, task or activities that requires them to apply what they have learnt in a real-world context
+- Some benifits of learn by doing approach :
+	- increased retension of the information
+	- Better understanding of how concepts apply to real-world situation
+	- Development of problem-solving and critical thinking skills
+	- increased motivation and engagement in the learning process
+- How to learn by doing ?
+	- start with a clear goal and choose a project
+	- research and gather information about the project and tech stack
+	- break the project into smaller , manageable tasks
+	- or , plan out the steps you need to take to complete the project or task
+	- start working begin working on the project or task. Take small steps and wok through each part of the process. Don't be afraid to make mistakes or try new things 
+	- reflect and evaluate after each step
+	- seek feedback
+	- repeat --> build something new
+- 

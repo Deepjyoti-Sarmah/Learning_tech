@@ -1,0 +1,13 @@
+
+- Hyperledger - aries-vcx next-gen mobile wrapper
+		- https://github.com/hyperledger/aries-vcx/tree/main/uniffi_aries_vcx
+		- https://wiki.hyperledger.org/display/INTERN/aries-vcx+next-gen+mobile+wrapper
+- Hyperledger - Learning Tokens @ Hyperledger Besu
+		- https://github.com/hyperledger-labs/learning-tokens
+		- https://wiki.hyperledger.org/display/INTERN/Learning+Tokens+@+Hyperledger+Besu
+- Hyperledger - Improve Kubernetes Operators support for Fablo
+		- https://github.com/hyperledger-labs/fablo
+		- https://wiki.hyperledger.org/display/INTERN/Improve+Kubernetes+Operators+support+for+Fablo
+-  Hyperledger - Implement a CLI for node interactions in Hyperledger Solang - 
+	- https://github.com/hyperledger/solang
+	- [Implement a CLI for node interactions in Hyperledger Solang](https://wiki.hyperledger.org/display/INTERN/Implement+a+CLI+for+node+interactions+in+Hyperledger+Solang)

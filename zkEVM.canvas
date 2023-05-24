@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"type":"text","text":"zkEVM","id":"ae12fb0b054d8af9","x":-400,"y":-220,"width":145,"height":60},
+		{"type":"text","text":"zero knowledge proof","id":"0a113d2b75cf27a8","x":140,"y":-340,"width":250,"height":60},
+		{"type":"text","text":"Virtual Machine","id":"a8b16fbac378a9f6","x":-192,"y":-220,"width":250,"height":60},
+		{"type":"text","text":"EVM compatible","id":"f641aa396d5ee331","x":140,"y":-120,"width":250,"height":60},
+		{"type":"text","text":"EVM","id":"5f68b9523c4fa663","x":-435,"y":-1000,"width":825,"height":60},
+		{"type":"text","text":"ByteCode ","id":"5e3b0425626a7348","x":140,"y":-900,"width":120,"height":60},
+		{"type":"text","text":"ABI","id":"53b67ea2224bcfb8","x":140,"y":-700,"width":120,"height":60},
+		{"type":"text","text":"Smart contract","id":"1e753a608ca38a53","x":-435,"y":-797,"width":180,"height":60},
+		{"type":"text","text":"Solc Compiler","id":"37d9e9fb7f656b87","x":-167,"y":-794,"width":200,"height":55},
+		{"type":"text","text":"Layer 2 solution","id":"21628036b8430324","x":-437,"y":-440,"width":817,"height":60},
+		{"type":"text","text":"privacy ","id":"9a54558492e9f465","x":-471,"y":-30,"width":110,"height":60},
+		{"type":"text","text":"Scalability","id":"50145115e9f64ef3","x":-264,"y":-30,"width":145,"height":60},
+		{"id":"f9bcd1336ca7ce0e","x":-416,"y":-640,"width":143,"height":60,"type":"text","text":"ByteCode"},
+		{"id":"bdf8a7b13d410d4a","x":-121,"y":-640,"width":108,"height":60,"type":"text","text":"EVM"},
+		{"id":"1704ec3062adb165","x":-361,"y":490,"width":250,"height":60,"type":"text","text":"zk Proofs + Cryptograhic Techniques"},
+		{"id":"34dcbd3c9de4ae61","x":290,"y":490,"width":200,"height":60,"type":"text","text":"Validation"},
+		{"id":"d09e9d95331411a6","x":-620,"y":490,"width":197,"height":60,"type":"text","text":"smart contract"},
+		{"id":"e81dcc3572a5f585","x":-680,"y":260,"width":1200,"height":80,"type":"text","text":"zkEVM working Example"}
+	],
+	"edges":[
+		{"id":"5744cf1cae879a53","fromNode":"ae12fb0b054d8af9","fromSide":"right","toNode":"a8b16fbac378a9f6","toSide":"left"},
+		{"id":"d945f4a26d16b1c6","fromNode":"a8b16fbac378a9f6","fromSide":"right","toNode":"0a113d2b75cf27a8","toSide":"left"},
+		{"id":"fafd5b2947b05e6b","fromNode":"a8b16fbac378a9f6","fromSide":"right","toNode":"f641aa396d5ee331","toSide":"left"},
+		{"id":"ae063c3e3e7fbe4e","fromNode":"ae12fb0b054d8af9","fromSide":"bottom","toNode":"9a54558492e9f465","toSide":"top"},
+		{"id":"02233d13cd93f875","fromNode":"ae12fb0b054d8af9","fromSide":"bottom","toNode":"50145115e9f64ef3","toSide":"top"},
+		{"id":"bead386cde2928b7","fromNode":"1e753a608ca38a53","fromSide":"right","toNode":"37d9e9fb7f656b87","toSide":"left"},
+		{"id":"f1e30b9f69fda53b","fromNode":"37d9e9fb7f656b87","fromSide":"right","toNode":"5e3b0425626a7348","toSide":"left"},
+		{"id":"d2b16181edfba822","fromNode":"37d9e9fb7f656b87","fromSide":"right","toNode":"53b67ea2224bcfb8","toSide":"left"},
+		{"id":"07af6d6f65c3b6ab","fromNode":"f9bcd1336ca7ce0e","fromSide":"right","toNode":"bdf8a7b13d410d4a","toSide":"left"},
+		{"id":"554ee6287899f749","fromNode":"d09e9d95331411a6","fromSide":"right","toNode":"1704ec3062adb165","toSide":"left"},
+		{"id":"39eeaea92222d981","fromNode":"1704ec3062adb165","fromSide":"right","toNode":"34dcbd3c9de4ae61","toSide":"left","label":"Zk prooff + Transactions"}
+	]
+}

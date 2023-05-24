@@ -1,0 +1,18 @@
+- zero knowledge proof + EVM
+	- ### What is EVM
+		-  Smart contract (program) --> solc compiler -->Bytecode, ABI
+		- Bytecode (low-level insstruction) --> EVM
+		-  EVM is decentralized virtual machine that executes smart contracts
+		- EVM software-based emulation of a physical computer
+	- ### Zero Knowlege proof
+		-  A zero-knowledge protocol is a method by which one party can prove to another party that something is true, without reveling any infomation apart from the fact that this specific statement is true
+	- zkEVM
+		- [[zkEVM.canvas]]
+	- zkEVM architecture
+		- The execution environment 
+		- the proving circuit
+		- the verifier contract
+	- [drive](https://drive.google.com/drive/folders/1JRM3RMytZp2ek0k4WB5X_qbi9_BKXo2-)
+	- Is zkEVM has a layer 2 blockchain?
+		- zkEVM is a layer 2 scaling solution for etherum
+	- Types of zkEVM

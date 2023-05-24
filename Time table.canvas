@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"type":"text","text":"Time Table","id":"7d07bd01c0df872d","x":-160,"y":-560,"width":250,"height":60},
+		{"type":"text","text":"study env","id":"4d0a6f9a4a929297","x":-5,"y":-360,"width":150,"height":60},
+		{"type":"text","text":"Long term","id":"0703af99da945c20","x":-185,"y":-95,"width":155,"height":60},
+		{"type":"text","text":"Announce","id":"cec0818795c48daa","x":163,"y":-245,"width":205,"height":60},
+		{"type":"text","text":"+- 1 hr","id":"af5ed103efc8f9a1","x":-212,"y":-300,"width":105,"height":60},
+		{"type":"text","text":"1 or 2 subject","id":"23af0d2b543e39b5","x":-105,"y":-245,"width":150,"height":60},
+		{"type":"text","text":"- H.O.P Method\n- Hour of power","id":"462077a45ff67154","x":38,"y":-140,"width":250,"height":90},
+		{"type":"text","text":"Todo vs Reality","id":"434cd38da5f94255","x":16,"y":10,"width":250,"height":60},
+		{"type":"text","text":"- Revise\n- 5 min \n- 10%\n- 5x\n","id":"04b0aeb0cac6288e","x":-252,"y":10,"width":185,"height":140},
+		{"type":"text","text":"P1\n","id":"488dc5317095b775","x":-368,"y":-275,"width":70,"height":60},
+		{"type":"text","text":"P2","id":"cebb79410ab63145","x":-430,"y":-125,"width":70,"height":60},
+		{"type":"text","text":"Px","id":"8c87190f4685e136","x":-465,"y":10,"width":70,"height":60},
+		{"type":"text","text":"Night vs Day","id":"d5d739239bdbcd55","x":-322,"y":-185,"width":110,"height":60},
+		{"id":"13809d222756b38a","x":-465,"y":180,"width":253,"height":200,"type":"text","text":"- 25 min ---> 5 min\n- 50 min ---> 10 min\n- 2:30 min ---> 30 min \n"}
+	],
+	"edges":[
+		{"id":"7d611509629f73d0","fromNode":"7d07bd01c0df872d","fromSide":"bottom","toNode":"488dc5317095b775","toSide":"top"},
+		{"id":"630a7af26e4df347","fromNode":"488dc5317095b775","fromSide":"bottom","toNode":"cebb79410ab63145","toSide":"top"},
+		{"id":"877e4b38291df529","fromNode":"cebb79410ab63145","fromSide":"bottom","toNode":"8c87190f4685e136","toSide":"top"},
+		{"id":"041bfdd88eb92fa3","fromNode":"7d07bd01c0df872d","fromSide":"bottom","toNode":"d5d739239bdbcd55","toSide":"top"},
+		{"id":"e034b2f6940a1dd0","fromNode":"7d07bd01c0df872d","fromSide":"bottom","toNode":"af5ed103efc8f9a1","toSide":"top"},
+		{"id":"07bb6fca1f3b0e0c","fromNode":"7d07bd01c0df872d","fromSide":"bottom","toNode":"04b0aeb0cac6288e","toSide":"top"},
+		{"id":"9672d9b967dce5ed","fromNode":"7d07bd01c0df872d","fromSide":"bottom","toNode":"0703af99da945c20","toSide":"top"},
+		{"id":"e48d22ff7bded995","fromNode":"7d07bd01c0df872d","fromSide":"bottom","toNode":"23af0d2b543e39b5","toSide":"top"},
+		{"id":"a8d4a0c66e1b17e4","fromNode":"7d07bd01c0df872d","fromSide":"bottom","toNode":"4d0a6f9a4a929297","toSide":"top"},
+		{"id":"5f87174fe61a617e","fromNode":"7d07bd01c0df872d","fromSide":"bottom","toNode":"462077a45ff67154","toSide":"top"},
+		{"id":"1bd62677c4302130","fromNode":"7d07bd01c0df872d","fromSide":"bottom","toNode":"434cd38da5f94255","toSide":"top"},
+		{"id":"50d0e0a421ab32f7","fromNode":"7d07bd01c0df872d","fromSide":"bottom","toNode":"cec0818795c48daa","toSide":"top"}
+	]
+}

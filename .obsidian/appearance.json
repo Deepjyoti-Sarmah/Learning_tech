@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "theme": "system",
-  "baseFontSize": 18
+  "baseFontSize": 19,
+  "cssTheme": "Dracula Official"
 }

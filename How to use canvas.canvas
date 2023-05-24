@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"Card\nOnly stays insidethe canvas ","id":"2e998388944b5bdf","x":-730,"y":-430,"width":300,"height":100},
+		{"type":"file","file":"Canvas note.md","id":"130e20c2102d317b","x":-630,"y":-18,"width":400,"height":400},
+		{"type":"text","text":"links\n### ![[Top 10 Coding Interview Questions With Answers]]\n","id":"f770632846a0361d","x":-1150,"y":680,"width":430,"height":240},
+		{"type":"file","file":"Daily-logs/2023-05-04.md","id":"553831d478265deb","x":20,"y":400,"width":400,"height":400,"color":"4"},
+		{"type":"text","text":"### [Cnavas tutorial](https://www.youtube.com/watch?v=HFK3D7zeyTA&list=TLPQMDQwNTIwMjOE40qSErwuKQ&index=3)\n","id":"68694cf5e44a3532","x":20,"y":-330,"width":280,"height":90},
+		{"type":"file","file":"Screenshot from 2023-03-28 11-00-31.png","id":"9c65495f54e7dfe5","x":-1075,"y":-120,"width":280,"height":204}
+	],
+	"edges":[
+		{"id":"7afc08670351e3a5","fromNode":"130e20c2102d317b","fromSide":"right","toNode":"553831d478265deb","toSide":"left","color":"2","label":"Notes"},
+		{"id":"2a119900afb879e7","fromNode":"130e20c2102d317b","fromSide":"top","toNode":"2e998388944b5bdf","toSide":"bottom","color":"4","label":"Card"},
+		{"id":"de1937104c47b096","fromNode":"130e20c2102d317b","fromSide":"left","toNode":"9c65495f54e7dfe5","toSide":"bottom","color":"6","label":"Media"},
+		{"id":"89d42cd565c8e407","fromNode":"130e20c2102d317b","fromSide":"top","toNode":"68694cf5e44a3532","toSide":"bottom","color":"4","label":"youtube link"},
+		{"id":"d50af41a815937db","fromNode":"130e20c2102d317b","fromSide":"bottom","toNode":"f770632846a0361d","toSide":"top","color":"5","label":"links"}
+	]
+}

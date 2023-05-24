@@ -526,3 +526,12 @@ return self.send_command(f'ccw {degree}')
 ```
 
 ## speed based detection 2km , 5km 
+meaning of every port no.
+ip address which addresss, 5G,4G, WIFI?
+which ports are being used and where it is connected
+
+result analysis
+graph,which paramters has been used
+performance measure in other papers
+
+result section- existing performance measure comparison

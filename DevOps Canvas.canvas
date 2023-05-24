@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"text","text":"- ### DevOps Roadmap\n- [youtube](https://www.youtube.com/watch?v=7pT0oviBZk0&list=TLPQMDMwNTIwMjOykPKT9ckfog&index=4)\n","id":"1cf78c5369d586ec","x":-212,"y":-660,"width":340,"height":80},
+		{"type":"text","text":"### Yaml (2 days enough)\n","id":"b19397a6a9f2e356","x":-452,"y":-395,"width":247,"height":80,"color":"3"},
+		{"type":"text","text":"- AWS\n- Azur\n- Google Clouds","id":"533c9611efc2811e","x":260,"y":-595,"width":250,"height":110,"color":"4"},
+		{"type":"text","text":"- Ansible\n- Github actions\n- Circle CI / Argo CD","id":"7ed1af09ef5c1598","x":320,"y":-180,"width":250,"height":140,"color":"4"},
+		{"type":"text","text":"### Infrastructure as a code ","id":"4bcdd94fba533a22","x":-80,"y":-40,"width":250,"height":97,"color":"3"},
+		{"type":"text","text":"- teraform\n- pulumi","id":"6037f48173fbe1d7","x":128,"y":80,"width":250,"height":80,"color":"4"},
+		{"type":"text","text":"### cloud","id":"7e46ee5e891073c3","x":-42,"y":-455,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"- Learn in real environment\n- Horizontal scalling\n- Vertical scalling","id":"58d78484aec3e3d6","x":280,"y":-425,"width":250,"height":150,"color":"4"},
+		{"type":"text","text":"### Linux ","id":"151ee9a2253ebfee","x":-487,"y":-545,"width":140,"height":60,"color":"3"},
+		{"type":"text","text":"### Git","id":"3c55de2c22c7faf0","x":-327,"y":-515,"width":125,"height":60,"color":"3"},
+		{"type":"text","text":"### Docker\n","id":"059d91a7d956b995","x":-472,"y":-288,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"### Kubernaties","id":"7d76f68f7a51fd9d","x":-452,"y":-210,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"### Tools (7 to 15 days)","id":"4589dc758f06210b","x":30,"y":-180,"width":250,"height":96,"color":"3"}
+	],
+	"edges":[
+		{"id":"3bac7b6f8fee58ea","fromNode":"1cf78c5369d586ec","fromSide":"bottom","toNode":"151ee9a2253ebfee","toSide":"top"},
+		{"id":"0d1e74126fa99b58","fromNode":"1cf78c5369d586ec","fromSide":"bottom","toNode":"3c55de2c22c7faf0","toSide":"top"},
+		{"id":"92c519a5c2392040","fromNode":"1cf78c5369d586ec","fromSide":"bottom","toNode":"b19397a6a9f2e356","toSide":"top"},
+		{"id":"2aabe28b39bf1ca8","fromNode":"1cf78c5369d586ec","fromSide":"bottom","toNode":"7e46ee5e891073c3","toSide":"top"},
+		{"id":"8eb17a901b05ebe5","fromNode":"1cf78c5369d586ec","fromSide":"bottom","toNode":"059d91a7d956b995","toSide":"top"},
+		{"id":"bc56dbdf30d912d5","fromNode":"1cf78c5369d586ec","fromSide":"bottom","toNode":"7d76f68f7a51fd9d","toSide":"top"},
+		{"id":"19e225ec7d0b2648","fromNode":"1cf78c5369d586ec","fromSide":"bottom","toNode":"4589dc758f06210b","toSide":"top"},
+		{"id":"ab988cdb861ecb17","fromNode":"1cf78c5369d586ec","fromSide":"bottom","toNode":"4bcdd94fba533a22","toSide":"top"},
+		{"id":"b529ad411b972dde","fromNode":"7e46ee5e891073c3","fromSide":"right","toNode":"533c9611efc2811e","toSide":"left"},
+		{"id":"fae355446b029ea4","fromNode":"7e46ee5e891073c3","fromSide":"right","toNode":"58d78484aec3e3d6","toSide":"left"},
+		{"id":"e0eee5f371a97b96","fromNode":"4589dc758f06210b","fromSide":"right","toNode":"7ed1af09ef5c1598","toSide":"left"},
+		{"id":"3cfd4c9b7262046c","fromNode":"4bcdd94fba533a22","fromSide":"bottom","toNode":"6037f48173fbe1d7","toSide":"top"}
+	]
+}

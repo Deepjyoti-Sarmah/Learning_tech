@@ -1,0 +1,23 @@
+- Commits
+		- feat -- a new feature
+		- fix -- a bug fix
+		- dock -- change in documentation
+		- style -- everything related to styling
+		- refactor -- code changes that neither fixes a bug or adds a feat are 
+		- test -- everything releated to testing
+		- chore -- updaringn buils tasks, package manager config, etc
+- Readme
+		- what does this app does
+		- how to develop in local
+		- link to live link
+- Keep the repository clean
+		- keep a git ignore file
+- Use branches for feature development
+		- name _id_bug_id/feature_id
+- Regularly Pull and Push
+- Review chnages before merge
+- Use Tags for releases
+		- adding tags to important features for highlights
+		- usefull when debugging
+- Collabrate with Pull request 
+- Utilize the github features 

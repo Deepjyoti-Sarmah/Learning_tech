@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"f3830285269a61f1","x":-330,"y":-380,"width":675,"height":60,"type":"text","text":"Sveltekit +Go Custom Auth"},
+		{"id":"614c2988fa9ad1eb","x":-300,"y":100,"width":250,"height":60,"color":"2","type":"text","text":"Sveltekit (back-end)"},
+		{"id":"a492bcc5fa5975db","x":180,"y":-280,"width":250,"height":60,"color":"1","type":"text","text":"Redis DB"},
+		{"id":"29ef49b7f3b12120","x":-315,"y":-160,"width":280,"height":70,"color":"5","type":"text","text":"Golang fiber (back-end)"},
+		{"id":"9d93556675476a81","x":180,"y":40,"width":250,"height":60,"color":"6","type":"text","text":"Postgress DB"},
+		{"type":"text","text":"Sveltekit (front-end)","id":"3d43290bd9dc4494","x":-300,"y":320,"width":250,"height":60,"color":"2"},
+		{"id":"90a0b44f58d32ef1","x":-780,"y":-520,"width":400,"height":400,"type":"file","file":"GoLang & SvelteKit Custom Auth, it's Easier than you Think... (FULL EXAMPLE & SOURCE CODE PROVIDED).md"}
+	],
+	"edges":[
+		{"id":"d55d36f8d5fc2db6","fromNode":"614c2988fa9ad1eb","fromSide":"bottom","toNode":"3d43290bd9dc4494","toSide":"top"},
+		{"id":"ce86eb9fe74bd5bb","fromNode":"3d43290bd9dc4494","fromSide":"top","toNode":"614c2988fa9ad1eb","toSide":"bottom","label":"Login :- email, password sent | created coockie of the header and send it back to fornt-end "},
+		{"id":"bed66ae82293fa95","fromNode":"614c2988fa9ad1eb","fromSide":"top","toNode":"29ef49b7f3b12120","toSide":"bottom"},
+		{"id":"cfa11a71ad9cf846","fromNode":"29ef49b7f3b12120","fromSide":"bottom","toNode":"614c2988fa9ad1eb","toSide":"top","label":"login send to golang backend , send the session Id back to sveltekit backend as header"},
+		{"id":"cf64d44aaf550fb5","fromNode":"29ef49b7f3b12120","fromSide":"right","toNode":"9d93556675476a81","toSide":"left"},
+		{"id":"8701d1566e65fa3d","fromNode":"9d93556675476a81","fromSide":"left","toNode":"29ef49b7f3b12120","toSide":"right","label":"validate the login"},
+		{"id":"fdb1d9498e1cf86c","fromNode":"29ef49b7f3b12120","fromSide":"right","toNode":"a492bcc5fa5975db","toSide":"left"},
+		{"id":"87ed2f41c8d6708d","fromNode":"a492bcc5fa5975db","fromSide":"left","toNode":"29ef49b7f3b12120","toSide":"right","label":"store the session because of key- value pair"},
+		{"id":"bdb0520f2421d6de","fromNode":"90a0b44f58d32ef1","fromSide":"left","toNode":"f3830285269a61f1","toSide":"top"}
+	]
+}

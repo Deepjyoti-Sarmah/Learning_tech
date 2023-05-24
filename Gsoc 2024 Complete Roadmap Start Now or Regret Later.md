@@ -1,0 +1,8 @@
+- ### Hit the inflection point 
+	- building real world projects on your own without relyining on tutorial
+		- you become extreamly independent 
+		- donot need anyones help or guidance
+		- you can figure things out 
+	- Pick a project do it end to end and launch it into the internet
+	- start building realworld projects
+	- This is the time to sharpen your AXE

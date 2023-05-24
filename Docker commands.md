@@ -1,0 +1,34 @@
+- docker --version
+- docker pull nginx
+- docker images
+- docker create --name enginOne -p 81:80 nginx 
+- docker ps -a
+- docker rename engineOne engine1
+- docker start engine1
+	- open web browser and type localhost:81
+- docker run -di --name pytjon-apps django:latest
+- docker port engine1
+- docker pause engine1
+- docker stats
+- docker stop engine2
+- docker kill python-apps
+- docker rm python-apps
+- docker rmi django:latest
+- docker exec -it engine1 /bin/sh
+	- ls
+	- cd usr
+	- cd share
+	- cd nginx
+	- cd html
+	- echo "Hello World" > linode.html
+	- localhost:81/linode.html
+	- exit
+- docker commit engine1 scrumtuous/my-webserver
+- docker images
+- docker save scrumtuous/my-webserver > my-image.tar
+- docker login
+	- username:
+	- password
+- docker push scrumluous/my-webserver
+- docker logout
+#docker 

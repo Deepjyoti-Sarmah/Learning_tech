@@ -30,7 +30,7 @@
 ```
 	tmux attach --> opens to last sessions
 	tmux ls ---> shows the different sessions
-	tmux a -t[name or index] ---> select the session with given index or namw
+	tmux a -t[name or index] ---> select the session with given index or name
 	tmux remane-session NEW_NAME ---> remane the curent session
 ```
 

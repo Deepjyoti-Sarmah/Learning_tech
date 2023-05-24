@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"### Auction Application Client (NodeJS)","id":"87435a0ee95f048b","x":-340,"y":-260,"width":520,"height":80},
+		{"type":"text","text":"Wallet","id":"f85868e15b42c646","x":180,"y":0,"width":120,"height":60},
+		{"type":"text","text":"CA","id":"82ef92f16a8a8a51","x":-405,"y":0,"width":65,"height":60},
+		{"type":"text","text":"User Interface (ReactJS)","id":"97fadf6d93bf8da3","x":-372,"y":-600,"width":165,"height":110},
+		{"type":"text","text":"Blockchain","id":"c488c8ed3b993c8a","x":35,"y":-600,"width":145,"height":100}
+	],
+	"edges":[
+		{"id":"ad4a777299b79d20","fromNode":"87435a0ee95f048b","fromSide":"left","toNode":"97fadf6d93bf8da3","toSide":"right"},
+		{"id":"e59c67b7de6a3cd4","fromNode":"97fadf6d93bf8da3","fromSide":"right","toNode":"87435a0ee95f048b","toSide":"left","label":"RESST API"},
+		{"id":"765af4f2063d0144","fromNode":"87435a0ee95f048b","fromSide":"right","toNode":"c488c8ed3b993c8a","toSide":"left"},
+		{"id":"b21bdc6bee138bf8","fromNode":"c488c8ed3b993c8a","fromSide":"left","toNode":"87435a0ee95f048b","toSide":"right","label":"Fabric SDK"},
+		{"id":"f4b89ed689630651","fromNode":"87435a0ee95f048b","fromSide":"bottom","toNode":"82ef92f16a8a8a51","toSide":"top"},
+		{"id":"192f7128710669bc","fromNode":"87435a0ee95f048b","fromSide":"bottom","toNode":"f85868e15b42c646","toSide":"top"}
+	]
+}

@@ -1,0 +1,21 @@
+ - https://www.youtube.com/watch?v=PGXOM3KxDyw
+	- [[Hyperledger Fabric Transaction flow.canvas|Hyperledger Fabric Transaction flow]]
+	- [[NFT Auction Architecture.canvas]]
+		- Deployed on AWWS EC2 instance
+		- Hyperledger Fabric consisting if
+		- 4 peers, 1CA, and 1 Orderer node
+	- ## TTF Token Design #tokendesign
+		- Base Types
+			- Fungible
+			- Non-fungible
+		- Behaviours
+			- Transferable or not
+			- Dividable or not
+			- Mintable or not
+			- Role-Based or not
+			- Singleton or not
+			- Burnable or not
+		- Behavior Groups
+			- SC = (mintable, burnable, role-based)
+		- Property Sets
+			- SKU (SKU represents a group of properties that cann help with queries)

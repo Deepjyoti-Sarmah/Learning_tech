@@ -1,0 +1,11 @@
+- [youtube](https://www.youtube.com/watch?v=gJDVEZJuAhc)
+- #### Mistakes
+	- I didn't practiced DSA in correct way
+		- Do not drive into CP directly 
+		- Do DSA
+		- Avoid Repetitive Questions
+	- Did not do much projects/dev
+		- Maintain a balance b/w CP and DSA
+		- Don't be one dimentional
+	- I was kind of an introvert
+		- try to be active everywhere

@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"type":"text","text":"### Critical Path","id":"3d510ca0c1913c9c","x":-139,"y":-580,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"#### logic to create datatypes","id":"4994fb42d605c50b","x":-187,"y":-480,"width":345,"height":60,"color":"4"},
+		{"type":"text","text":"#### logic to write data to db","id":"a69c1ba92d207d06","x":-187,"y":-380,"width":345,"height":60,"color":"4"},
+		{"type":"text","text":"#### Logic to create files ","id":"993c7103f8d8c8bd","x":-187,"y":-280,"width":345,"height":60,"color":"4"},
+		{"type":"text","text":"#### logic to write into file","id":"be67f908d96b88a5","x":-187,"y":-180,"width":345,"height":60,"color":"4"},
+		{"type":"text","text":"###### Read All","id":"7586d49bea54a818","x":-140,"y":360,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"###### Delete","id":"b5ee72cf29a64481","x":-140,"y":680,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"###### Write","id":"0346bf43ad7291dc","x":-140,"y":780,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"###### Delete All","id":"2e0b3138a9650cb3","x":-140,"y":570,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"###### Read","id":"2939ddc2d97d2cc9","x":-140,"y":460,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"###### Driver","id":"9ef1fd568e91eb01","x":-420,"y":570,"width":124,"height":60,"color":"6"},
+		{"type":"text","text":"##### Struct Methods","id":"846e749cc59cc65f","x":-240,"y":260,"width":400,"height":60},
+		{"type":"text","text":"##### Logic to read single record  from a database","id":"e6cc1b119fdeec10","x":-420,"y":-24,"width":213,"height":140,"color":"3"},
+		{"type":"text","text":"##### Logic to read all record from a database","id":"bc4ac415f6970f78","x":-187,"y":-24,"width":200,"height":140,"color":"3"},
+		{"type":"text","text":"##### Logic to delete single record from database","id":"ae35c0780c503d8d","x":40,"y":-24,"width":183,"height":140,"color":"3"},
+		{"type":"text","text":"##### Logic to delete all records from database","id":"51df01777318e2b0","x":240,"y":-24,"width":200,"height":140,"color":"3"},
+		{"type":"text","text":"##### Data integrity issues","id":"3f7b2ec6493a170a","x":-240,"y":980,"width":440,"height":60},
+		{"type":"text","text":"##### Cockroach DB","id":"71b91cbb1ada1aa0","x":-365,"y":1540,"width":250,"height":60},
+		{"type":"text","text":"###### Mutex","id":"e11014e835461972","x":75,"y":1540,"width":125,"height":60},
+		{"type":"text","text":"###### Delete","id":"64be21e7b8b8a953","x":70,"y":1070,"width":125,"height":60,"color":"6"},
+		{"type":"text","text":"###### Write","id":"6145d55c2efbbed3","x":-305,"y":1070,"width":131,"height":60,"color":"6"},
+		{"type":"text","text":"100","id":"8a93843d49b12e9c","x":-39,"y":1160,"width":99,"height":50},
+		{"type":"text","text":"50","id":"361ecbd5176d6bd9","x":-31,"y":1315,"width":91,"height":50},
+		{"type":"text","text":"Bank\n200","id":"055a1c2dfc7d229a","x":-216,"y":1225,"width":101,"height":90},
+		{"type":"text","text":"250 (correct ans) ","id":"4d355d0b5b30dbc2","x":200,"y":1195,"width":185,"height":60,"color":"4"},
+		{"type":"text","text":"150 (wrong ans) ","id":"5e1b86107e490996","x":195,"y":1305,"width":185,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"0cf0558b6f0b01a1","fromNode":"4994fb42d605c50b","fromSide":"bottom","toNode":"a69c1ba92d207d06","toSide":"top"},
+		{"id":"ebb203eec542aced","fromNode":"a69c1ba92d207d06","fromSide":"bottom","toNode":"993c7103f8d8c8bd","toSide":"top"},
+		{"id":"99a6d7cab9638ca1","fromNode":"993c7103f8d8c8bd","fromSide":"bottom","toNode":"be67f908d96b88a5","toSide":"top"},
+		{"id":"147644c78a49202d","fromNode":"9ef1fd568e91eb01","fromSide":"right","toNode":"2e0b3138a9650cb3","toSide":"left"},
+		{"id":"bf1f75d56760d376","fromNode":"9ef1fd568e91eb01","fromSide":"right","toNode":"2939ddc2d97d2cc9","toSide":"left"},
+		{"id":"067aba71d799349f","fromNode":"9ef1fd568e91eb01","fromSide":"right","toNode":"7586d49bea54a818","toSide":"left"},
+		{"id":"834ce4cdd68013bc","fromNode":"9ef1fd568e91eb01","fromSide":"right","toNode":"b5ee72cf29a64481","toSide":"left"},
+		{"id":"913d0d702f86d06d","fromNode":"9ef1fd568e91eb01","fromSide":"right","toNode":"0346bf43ad7291dc","toSide":"left"},
+		{"id":"1be924041d3e267e","fromNode":"8a93843d49b12e9c","fromSide":"left","toNode":"055a1c2dfc7d229a","toSide":"top"},
+		{"id":"76c17b0b3421ca18","fromNode":"055a1c2dfc7d229a","fromSide":"right","toNode":"361ecbd5176d6bd9","toSide":"left"},
+		{"id":"6c29c8bd70a4300a","fromNode":"71b91cbb1ada1aa0","fromSide":"right","toNode":"e11014e835461972","toSide":"left"}
+	]
+}

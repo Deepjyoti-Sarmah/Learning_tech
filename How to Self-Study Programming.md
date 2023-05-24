@@ -1,0 +1,13 @@
+- Part One
+	- Learning the Basic
+		- Fundamental Building blocks of code
+		- Syntex ---> Grammer of programming
+		- Variable and logic ---> that stores the data and if/else statements
+		- Algorithms --->steps by steps proccess that put together to solve problems
+- Part Two
+	- Just Practice, over and over and over again....
+	- freecodecamp.org
+	- leetcode etc
+- Part Three
+	- What next ?
+	- get a job

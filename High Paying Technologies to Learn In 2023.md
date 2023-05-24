@@ -1,0 +1,23 @@
+- [youtube](https://www.youtube.com/watch?v=9CE80cBEcu0&list=TLPQMDQwNTIwMjOE40qSErwuKQ&index=3)
+	- Version Control System (Git & Github)
+	- Javascript  
+	- TypeScript
+	- MERN
+	- WebRTC
+		- Scalable Realtime Video Systems
+	- Web3 #web3 #eth #solana  
+		- ETH
+		- Solana
+		- Hyperledger Fabric #Hyperledger 
+	- DevOps #devops
+		- Dockerisation #docker 
+		- Containerisation
+		- Kubernetes
+		- Terraform
+		- Infrastructure as code
+	- Backend Apps in Low-Level Languages (Rust)
+		- Low latency systems
+		- Trading
+		- High frequency Trading(HFT)
+	- Python and AI
+- [[High Paying Technologies to Learning In 2023.canvas|High Paying Technologies to Learning In 2023]]

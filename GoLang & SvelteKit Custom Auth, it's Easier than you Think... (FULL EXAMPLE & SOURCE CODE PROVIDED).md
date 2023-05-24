@@ -1,0 +1,3 @@
+- [github](https://github.com/bmdavis419/svelte-go-testing)
+- [youtube](https://www.youtube.com/watch?v=50BYTzwC14Y&list=TLPQMTMwNTIwMjPWrjqI6-aQ_A&index=1)
+- [[GoLang & SvelteKit Custom Auth.canvas]]

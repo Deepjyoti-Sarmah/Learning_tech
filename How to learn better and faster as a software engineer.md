@@ -1,0 +1,17 @@
+-Register your curiosity
+		- anything that spickes your interest , make a entry out of it
+		- why you want to read about it
+		- learning and why 
+- Jump start
+		- start right now
+		- start with anything and everything you have
+- Do the laundry
+		- just get your local id setup and start codding the things out
+		- focus on implementation
+- Inverse Power Law
+		- start more time into basics and gradually lower it down 
+		- more time spent in the easy part helps you to spend lesser time spend on more advance part
+- Juggle and  Timebox
+		- pick 2 or 3 things that you want to learn in parrallel
+		- board by one switch to other
+		- Timebox the things and evaluate and make decision do you want to drive deeper or  not

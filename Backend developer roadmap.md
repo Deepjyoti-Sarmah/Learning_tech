@@ -1,0 +1,20 @@
+- HTTP
+		- curl
+		- raw http request
+		- HTTP OBJECT
+			- Method
+			- Status code
+			- Headers
+			- Body
+- REST / GraphQL
+- Programming language
+- networking / linux fundamentals
+		- HTTP , TCP , DB
+- Database (SQL/NO SQL)
+- Caching (Redis / MemCached)
+- Cloud Providers 
+		- (GC/ Azur/ AWS)
+- Web Security
+- Containerization
+- testing
+[[Backend projects projects]]

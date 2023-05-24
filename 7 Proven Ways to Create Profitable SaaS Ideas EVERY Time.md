@@ -1,0 +1,34 @@
+- Don't tell me your idea , tell me what  problem it solves
+	- You want to solve real business problems
+		- ##### Find a problem
+			- 5 ways
+				- scratch your own itch
+				- find a problem at your day job
+				- try to solve a problem of a relative/ colleague
+				- Have a poor customer experience and try to solve it with SaaS
+				- find a problem online
+		- ##### Translate an existing idea to a new niche
+			- land and expand
+			- Builders prime example
+		- #####  Enter a large space with hated competitors
+			- superior UX
+			- pricing 
+			- support
+			- positioning
+		- ##### Build on your network
+			- Customers
+			- Influencers
+		- ##### Enter a fast growing ecosystem
+			- Ex :- premium wordpress theme 2008
+			- identifying a fast growing ecosystem is hard
+		- ##### Build on an existing user base
+			- By obesrving
+			- by asking
+		- ##### Look at ways you spent money at your day job
+			- Task management
+			- issue tracking
+			- email client
+			- scheduling software
+			- slack
+			- communication
+	- #### Next Step validate

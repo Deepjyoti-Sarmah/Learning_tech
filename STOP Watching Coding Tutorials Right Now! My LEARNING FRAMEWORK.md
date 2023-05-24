@@ -1,0 +1,25 @@
+- Goal driven learning
+	- Choose a specific goal
+	- Not extreamly ambitious
+	- Group of peop
+- Learning before earning
+	- Take break if you need to
+- Question driven development
+	- Don't drive into tutorials
+	- what do they do on a day-today basis
+	- break it down into small projects
+	- break the project down into small prompts or questions
+	- from someone working in the industry
+- Tutoroial hell
+	- copying someone else
+	- no real world projects
+	- muscle memory not knowledge
+	- Project based learning
+- Low latency Development
+	- Break it down into a small projects
+	- build a very simple low latency trading system
+	- Written in c, c++, Rust 
+		- How websockets servers are written in these languages
+		- how data transmission happens
+		- how data compression happens
+		- How to regionally distribute servers

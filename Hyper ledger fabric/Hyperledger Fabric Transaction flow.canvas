@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"type":"text","text":"Application Client","id":"bc8060d2a8a10124","x":-393,"y":-360,"width":645,"height":80,"color":"5"},
+		{"type":"text","text":"1","id":"346a9a1f4fdbab5a","x":-563,"y":40,"width":65,"height":60,"color":"6"},
+		{"type":"text","text":"2","id":"e000af71901d8ef6","x":-470,"y":40,"width":65,"height":60,"color":"6"},
+		{"type":"text","text":"3","id":"601b33a6e4b60bf8","x":-383,"y":40,"width":65,"height":60,"color":"6"},
+		{"type":"text","text":"RAFT Consences Nodes aka Orderer","id":"eade14417c06d910","x":248,"y":-50,"width":203,"height":120,"color":"2"},
+		{"type":"text","text":"1","id":"7ebefb2df531a6ef","x":221,"y":180,"width":65,"height":60,"color":"6"},
+		{"type":"text","text":"2","id":"a083bf68d076659f","x":350,"y":180,"width":65,"height":60,"color":"6"},
+		{"type":"text","text":"3","id":"6592597939ee3ab3","x":457,"y":180,"width":71,"height":60,"color":"6"},
+		{"type":"text","text":"Business Node\n- Verify Signature & state\n- Update State\n- Commit to Block","id":"a96b56b27d62e069","x":160,"y":320,"width":425,"height":180},
+		{"type":"text","text":"Business Nod\n- Simulate Txn\n- Collect Results\n- Sign & Return","id":"ff19b7737c67067f","x":-680,"y":210,"width":443,"height":180},
+		{"type":"text","text":"45 min\n","id":"d345b5e5d9ee82b8","x":40,"y":-838,"width":80,"height":78,"color":"2"},
+		{"type":"text","text":"1 hr","id":"0f04e10de7bfb72f","x":528,"y":-1015,"width":84,"height":55,"color":"2"},
+		{"type":"text","text":"30 min","id":"f2f1adc4ccbcd7f6","x":-318,"y":-1090,"width":75,"height":75,"color":"2"},
+		{"type":"text","text":"15 min","id":"bbb7080816301412","x":-563,"y":-720,"width":65,"height":75,"color":"2"}
+	],
+	"edges":[
+		{"id":"34b78a848ca2392f","fromNode":"bc8060d2a8a10124","fromSide":"left","toNode":"346a9a1f4fdbab5a","toSide":"left","color":"3"},
+		{"id":"6cc2f4ae6153756b","fromNode":"bc8060d2a8a10124","fromSide":"left","toNode":"e000af71901d8ef6","toSide":"left","color":"3","label":"Endorse Txn"},
+		{"id":"7cf1bd10a913d863","fromNode":"bc8060d2a8a10124","fromSide":"left","toNode":"601b33a6e4b60bf8","toSide":"left","color":"3"},
+		{"id":"4bfc7260c098589b","fromNode":"346a9a1f4fdbab5a","fromSide":"top","toNode":"bc8060d2a8a10124","toSide":"bottom","color":"4"},
+		{"id":"450c62f6de538bc2","fromNode":"e000af71901d8ef6","fromSide":"top","toNode":"bc8060d2a8a10124","toSide":"bottom","color":"4","label":"Endorsement E1 E2 E3"},
+		{"id":"115511954fb2421b","fromNode":"601b33a6e4b60bf8","fromSide":"top","toNode":"bc8060d2a8a10124","toSide":"bottom","color":"4"},
+		{"id":"73fe8c4a9fd34f9f","fromNode":"bc8060d2a8a10124","fromSide":"right","toNode":"eade14417c06d910","toSide":"right","color":"3","label":"Proposal with endorsement"},
+		{"id":"b5dd7bb7807b0dd3","fromNode":"eade14417c06d910","fromSide":"bottom","toNode":"7ebefb2df531a6ef","toSide":"top","color":"3"},
+		{"id":"5d8c28cd09702d71","fromNode":"eade14417c06d910","fromSide":"bottom","toNode":"a083bf68d076659f","toSide":"top","color":"3"},
+		{"id":"73bc430a8fe46861","fromNode":"eade14417c06d910","fromSide":"bottom","toNode":"6592597939ee3ab3","toSide":"top","color":"3"},
+		{"id":"9263463dfb01b7fc","fromNode":"eade14417c06d910","fromSide":"left","toNode":"bc8060d2a8a10124","toSide":"bottom","color":"4","label":"Transaction Id"},
+		{"id":"aeee2687ef14a214","fromNode":"bbb7080816301412","fromSide":"bottom","toNode":"bc8060d2a8a10124","toSide":"top","color":"3","label":"Send transaction\neg :- transfer NFT to Bob"},
+		{"id":"25aada156d6807e3","fromNode":"bc8060d2a8a10124","fromSide":"top","toNode":"f2f1adc4ccbcd7f6","toSide":"bottom","color":"4","label":"Receive propsal"},
+		{"id":"a17b0c5a50c1231d","fromNode":"bc8060d2a8a10124","fromSide":"top","toNode":"0f04e10de7bfb72f","toSide":"bottom","color":"4","label":"Receive Transaction Id"},
+		{"id":"8575bd316b9ac3f6","fromNode":"d345b5e5d9ee82b8","fromSide":"bottom","toNode":"bc8060d2a8a10124","toSide":"top","color":"3","label":"Send transaction to finalize"},
+		{"id":"f758bce107d93f69","fromNode":"7ebefb2df531a6ef","fromSide":"bottom","toNode":"eade14417c06d910","toSide":"bottom","color":"4"},
+		{"id":"0af6e130712d1e67","fromNode":"a083bf68d076659f","fromSide":"bottom","toNode":"eade14417c06d910","toSide":"bottom","color":"4"},
+		{"id":"5e9bc18b2a8b4ed9","fromNode":"6592597939ee3ab3","fromSide":"bottom","toNode":"eade14417c06d910","toSide":"bottom","color":"4"}
+	]
+}

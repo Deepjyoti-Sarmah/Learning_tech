@@ -1,0 +1,60 @@
+- [youtube](https://www.youtube.com/watch?v=UQnucbThyFw&list=TLPQMTAwNTIwMjPPPa1D9Bs2cg&index=3)
+	- E-Commerce App with payment-gateway integration
+	- Maps App --> google maps
+	- Photo Editing App --> Fabric.js and camin.js
+	- Learning app --> whiteboad --->draw annotate text -->realtime sync
+		- React Sketchpad, fabric.js
+	- Booking app --> Calendly
+	- food delivery app --->zomato
+	- virtual tour App ---> panaromic view --> react three fiber , aframe, invact metaversity
+	- Chat App -->socet connection, socket management, presence detection, multimedia file support, image support, voice support
+	- screen sharing app ---> zoom, google classroom --->WebRTC ---> agora, 100ms
+	- social media app --> infinite feed--->Background fetching---> catch management
+- ### Project Ideas
+	- #### Builllding an x OTT platform 
+		- ##### Standard features
+			- Authentication
+			- login
+			- List
+			- search
+		- ##### Standout features
+			- Self-made video player
+			- Multiple account handleing
+	- #### Building an x social media app
+		- ##### Standard feature
+			- Login system
+			- Likes/ Comments
+			- Posts
+		- ##### Standout feature
+			- Real-time video call system
+			- Real time feed system
+	- #### Building an x e-com system
+		- ##### Standard features
+			- login 
+			- authentication
+			- orders
+			- add to cart
+		- ##### Standout features
+			- payment gateway system
+			- wallet system
+			- Real-life implementation
+	- #### Building an x  management app
+		- ##### Standard feature
+			- Money management, people management, project management
+			- login system
+			- Task
+			- Search
+		- ##### Standout feature
+			- Real-time task updation
+			- Integrating your task with a different API
+	- #### Building an x service provider system
+		- ##### Standard features
+			- login system
+			- booking system
+			- searching
+		- ##### Standout featuress
+			- location tracker system
+			- real-time payment gateway system
+	- #### Personal Portfolio
+		- Dynamic resume
+			- clickable

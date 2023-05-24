@@ -1,0 +1,21 @@
+- use Toolkits like Cloudflare stack
+		- workers
+		- global cdn
+		- Build a simple app but deploy it on a very highly optimized stack
+- Real-time communication
+	- collabrative text editor
+	- work-group chat
+	- chat/ audio/video
+		- with correct nos. like 100+ people in a single chat room
+		- scalability stack
+- Multiplayer game
+	- web scokets
+- npm packages
+	- rate limiter
+	- security module
+	- image optimization
+- Make a clone website
+	- mini version of codedamn playground
+- CLI toolkit
+	- make cli fun and make save time
+- [[Backend developer roadmap]]
