@@ -1,0 +1,32 @@
+The 4 pillars of flow state
+	- blockers
+	- proneness
+	- triggers
+	- cycle
+- What is flow ? 
+	- Flow is a state of consciousness that makes work feel effortless
+- Flow Blocker
+	- How do i stop this block ? 
+		- flow before phone
+		- get 2-3 hr of productive flow on your highest priority task in the morning
+- Flow Proneness
+	- your tendency to access flow
+	- wake up and get to work 90 sec of opening your eyes
+	- your flow proneness is highest first thing in the morning
+- Flow Triggers
+	- clear  goals
+	- immediate feedbag
+	- challenge/skills balance
+	- Engaging in tasks that are about 4% more difficult than your current skill level
+- Flow Cycle
+	- struggle
+	- release
+	- flow 
+	- recovery
+	- Task persistence
+		- Attention span stretching
+		- stretch you attention span
+		- e.g., read the book all the way through even it is uncomfortable 
+		- You gain more sustained attention
+- [[How I Tripled My Productivity By Doing Less - The Work Compression Method]]
+- 

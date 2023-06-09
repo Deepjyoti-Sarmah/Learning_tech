@@ -1,0 +1,9 @@
+- https://www.youtube.com/watch?v=RK9SjbVti4Q&list=TLPQMDYwNjIwMjNS6o-_tesRTw&index=2
+	- Accountability
+	- open mindedness
+	- Competence
+	- optimism
+	- hunger
+	- grit
+	- focus
+	- risk tolerance

@@ -4,45 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "ad5b9d7446aed641",
+        "id": "35313e85efd6e59b",
         "type": "tabs",
         "children": [
           {
-            "id": "674bddb5ca03920e",
+            "id": "b845138483619658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-logs/2023-05-24.md",
+                "file": "Daily-logs/2023-06-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "765926b3b2eb5e5f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Hyperledger solang.canvas",
-                "viewState": {
-                  "x": 29,
-                  "y": 1410,
-                  "zoom": -2.1132814220846194
-                }
-              }
-            }
-          },
-          {
-            "id": "12c77663d208dde1",
+            "id": "50d709c8fc83ee74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to learn by doing.md",
+                "file": "Hacking your brain with elaborate coping mechanisms.md",
                 "mode": "source",
-                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a01c327622b6128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How To Master Job Search as a Developer - Actionable Step-by-Step Course.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-logs/2023-05-24.md",
+                "file": "Daily-logs/2023-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-logs/2023-05-24.md",
+                "file": "Daily-logs/2023-06-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-logs/2023-05-24.md"
+                "file": "Daily-logs/2023-06-09.md"
               }
             }
           },
@@ -190,98 +186,62 @@
       "graph:Open graph view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "daily-notes:Open today's daily note": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "77153de9d72cc39a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a23b5517d818fbc9",
-        "type": "window",
-        "children": [
-          {
-            "id": "2e103a75705fff6c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "88823c87a26b67cf",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Hyperledger solang.canvas",
-                    "viewState": {
-                      "x": 21.77610160172462,
-                      "y": 1796.7163326820423,
-                      "zoom": -0.3466147554179524
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 8,
-        "y": 33,
-        "width": 1904,
-        "height": 1039,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "674bddb5ca03920e",
+  "active": "b845138483619658",
   "lastOpenFiles": [
+    "Daily-logs/2023-06-09.md",
+    "Hacking your brain with elaborate coping mechanisms.md",
+    "How To Master Job Search as a Developer - Actionable Step-by-Step Course.md",
+    "How I Tripled My Productivity By Doing Less - The Work Compression Method.md",
+    "Excalidraw/Drawing 2023-06-06 12.26.17.excalidraw.md",
+    "8 Most Important Character Traits Of Successful People.md",
+    "Excalidraw/perfomace.excalidraw.md",
+    "Daily-logs/2023-06-07.md",
+    "Daily-logs/2023-06-08.md",
+    "Daily-logs/2023-06-06.md",
+    "High level architecture and System Design of JunoDB.md",
+    "Overview of JunoDB - an open source KV store by PayPal.md",
+    "Excalidraw/JunoDB.excalidraw.md",
+    "How JunoDB is designed to scale horizontally.md",
+    "How To Unlock Insane Focus On Command.md",
+    "Daily-logs/2023-06-05.md",
+    "This RESUME got me offers from Google, Amazon, Swiggy....md",
+    "Daily-logs/2023-06-04.md",
+    "15 Terminal Commands that will BOOST your Productivity.md",
+    "Daily-logs/2023-05-07.md",
+    "How to Self-Study Programming.md",
+    "Daily-logs/2023-06-03.md",
+    "The framework to build the best developer portfolio.md",
+    "Excalidraw/ownership_Rust.excalidraw.md",
+    "entity_component_system_Wrap_RUST.canvas",
+    "Daily-logs/2023-06-02.md",
+    "Daily-logs/2023-06-01.md",
+    "Drone/Screenshot from 2023-05-26 21-02-39.png",
+    "Drone/546-550,Tesma504,IJEAST.pdf",
+    "Drone/Screenshot from 2023-05-27 23-51-56.png",
+    "Drone/ProjectWorkflow.canvas",
     "Hyperledger solang.canvas",
-    "Daily-logs/2023-05-24.md",
-    "How to learn by doing.md",
-    "Solang tutorials.md",
-    "Daily-logs/2023-05-23.md",
-    "Solang.md",
-    "Daily-logs/2023-05-22.md",
-    "Face Recognition and Tracking with Drone.md",
-    "Daily-logs/2023-05-21.md",
+    "Excalidraw/Screenshot from 2023-05-25 13-33-24.png",
+    "Excalidraw/Screenshot from 2023-05-25 15-41-55.png",
+    "Excalidraw/Screenshot from 2023-05-25 13-06-08.png",
+    "Screenshot from 2023-03-28 11-00-31.png",
+    "Excalidraw",
+    "Drone",
     "Pasted image 20230104200930.png",
     "Screenshot from 2023-03-28 10-58-06.png",
-    "Daily-logs/2023-05-20.md",
-    "Daily-logs/2023-05-19.md",
-    "Daily-logs/2023-05-18.md",
-    "Leadcode server in Go ^1b9167.md",
-    "Daily-logs/2023-05-17.md",
-    "STOP Watching Coding Tutorials Right Now! My LEARNING FRAMEWORK.md",
-    "Hyper ledger fabric/Build Your Own NFT with Hyperledger Fabric Session Two.md",
-    "Job Interview Tips I Learned After I Became The Interviewer.md",
-    "Backend projects projects.md",
-    "Backend developer roadmap.md",
-    "Projects that will get you HIRED.md",
-    "zkEVM.md",
     "zkEVM.canvas",
     "Hyper ledger fabric/Hyperledger Fabric Transaction flow.canvas",
     "NFT Auction Architecture.canvas",
-    "zkEVM.canva.md",
-    "Daily-logs/2023-05-16.md",
-    "NFT Auction Architecture.md",
     "How to use canvas.canvas",
-    "Hyper ledger fabric/Implement a CLI for node interactions in Hyperledger Solang.md",
-    "Hyper ledger fabric/Hyperledger Fabric choose the program.md",
     "Time table.canvas",
     "GoLang & SvelteKit Custom Auth.canvas",
     "Hyper ledger fabric",
     "Database using Go (JSON).canvas",
-    "DevOps Canvas.canvas",
-    "High Paying Technologies to Learning In 2023.canvas",
     "Screenshot from 2023-03-28 11-01-07.png",
-    "Screenshot from 2023-03-28 11-00-31.png",
     "Screenshot from 2023-03-28 11-00-12.png",
-    "Screenshot from 2023-03-28 10-59-10.png",
-    "Screenshot from 2023-03-28 10-58-40.png",
-    "Pasted image 20230104203248.png",
-    "Pasted image 20230104202955.png",
-    "Pasted image 20230104202607.png",
-    "Daily-logs",
-    "Excalidraw"
+    "Daily-logs"
   ]
 }

@@ -1,0 +1,95 @@
+- https://www.youtube.com/watch?v=1A9tPOfp6NA&list=TLPQMjkwNTIwMjPRSm4DtRZwfQ&index=3
+	- Backend Architechture --> 5 factors to look at
+		- Development Experience
+			- How easy to refactor, fix bugs & build features?
+		- Scalability
+			- How many active users/request can be handled?
+		- Response Time
+			- How does it handle fatal error?
+		- Cost
+	- Monolith 
+		- [[Monolith.excalidraw]]
+		- one service does everything
+		- development experience
+			- simplest architecture
+			- easy to run/ test locally
+			- fastest way to build, test, and deploy
+		- scalability
+			- can scale vertically (add memory, CPUs)
+			- not feasible to scale horizontally
+				- inefficient (Memory overhead, caching)
+				- adds infra complexity (load balancer)
+		- response time
+			- lowest latency
+			- no internal network calls
+		- reliability
+			- single point of  failure
+			- if process crashes ---> entire app goes down
+				- yes, even with replicas
+			- coding practices
+		- cost
+			- rent virtual server
+				- aws ec2, do droplet, heroku app 
+			- fixed pricing
+			- unutilized processing power
+	- microservices
+		- [[Microservices.excalidraw]]
+		- developer experience
+			- strong domain boundaries
+			- must jump around the codebase
+			- container orchestration (docker , kubernaties) 
+			- integration tests are hard
+		- scalability
+			- Can scale specific services vertically/horizontally
+			- Can optimize specific services
+		- Response time
+			- services communication via internal network calls
+			- (De)serialization performance penalty
+				- JSON over HTTP (REST)
+				- grpc
+			- has impact for bigger payloads
+		- Reliability
+			- failure are isolated (per service)
+				- app partially functional
+		- cost
+			- deploy managed kubernetes cluster
+				- AWS EKS, DO Managed K8s, GKE
+			- fees: container registry, load  balancers
+			- bin packing problem
+	- serverless
+		- no services, just functions
+		- [[Serverless.excalidraw]]
+		- Development experience
+			- No infrastructure/ architecture --> simple code
+			- Runtime limitation (native dependencies)
+				- image/pdf conversion 
+				- websockets/SSE
+			- Security considerations( IP whitelisting)
+		- Scalability
+			- config memory/ cpu (per functions)
+				- 128MB  - 10GB
+			- horizontally scales from zero to "infinite"
+		- Response Time
+			- cold starts (100ms --> 1000 + ms)
+				- internet + cold start + func execution time
+		- Relibility
+			- failure are isolated (per function)
+			- no infrastructure
+		- Cost 
+			- deploy  function to a provider 
+				- AWS Lamda, DO Functions, GCP  Cloud Funcs
+			- pay per request
+				- AWS Lambda
+					- $0.20/1M reqs + ~$0.000001/GB-second
+	- #### Comparison
+		|                | Monolith | Microservices | Serverless |
+		| -------------- | -------- | ------------- | ---------- |
+		| Dev Experience | good     | avg           | avg        |
+		| Scalability    | avg      | good          | good       |
+		| Response Time  | good     | avg           | bad        |
+		| Reliability    | bad      | good          | good       |
+		| Cost           | avg      | bad           | good       |
+	- <br>
+	- Hybrid Architecture
+		- [[Hybrid.excalidraw]]
+- [[2023-05-31]]

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5a6f5085e3d2f102","x":-420,"y":-270,"width":250,"height":60,"type":"text","text":"Literature survey"},
+		{"id":"7554cf246214c141","x":-90,"y":-270,"width":250,"height":60,"type":"text","text":"DataSet"},
+		{"id":"3a42cdc183ed7284","x":220,"y":-270,"width":250,"height":60,"type":"text","text":"Preprocessing"},
+		{"id":"dcd04acbd30b3df5","x":220,"y":-40,"width":250,"height":60,"type":"text","text":"Face Detection"},
+		{"id":"482f4b97f6dc3cc7","x":-90,"y":-40,"width":250,"height":60,"type":"text","text":"Face Recognition"},
+		{"id":"8dda6040e9b19517","x":-400,"y":-35,"width":250,"height":50,"type":"text","text":"Algorithm Analysis"},
+		{"id":"88186df99986f7fe","x":-400,"y":160,"width":250,"height":60,"type":"text","text":"Integration"}
+	],
+	"edges":[
+		{"id":"822e59a3584619cc","fromNode":"5a6f5085e3d2f102","fromSide":"right","toNode":"7554cf246214c141","toSide":"left"},
+		{"id":"c07c46cd11f79ee8","fromNode":"7554cf246214c141","fromSide":"right","toNode":"3a42cdc183ed7284","toSide":"left"},
+		{"id":"29a77d61e2bbfb09","fromNode":"3a42cdc183ed7284","fromSide":"bottom","toNode":"dcd04acbd30b3df5","toSide":"top"},
+		{"id":"30438393c377be2e","fromNode":"dcd04acbd30b3df5","fromSide":"left","toNode":"482f4b97f6dc3cc7","toSide":"right"},
+		{"id":"c0da8b3e08616e89","fromNode":"482f4b97f6dc3cc7","fromSide":"left","toNode":"8dda6040e9b19517","toSide":"right"},
+		{"id":"75cbd145769a69d4","fromNode":"8dda6040e9b19517","fromSide":"bottom","toNode":"88186df99986f7fe","toSide":"top"}
+	]
+}

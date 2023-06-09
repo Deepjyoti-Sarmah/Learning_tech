@@ -1,0 +1,46 @@
+- JunoDB is KV store designed, build, and opensoursed by PayPal
+- iT powers key services @paypa;
+	- login
+	- risk management
+	- transaction processing
+- Key highlight
+	- efficiently store and cache data
+- key impact
+	- reduces load on relational DB
+	- reduces load on downstream services
+	- reduces # calls to downstream services
+	- reduces # calls to expensive databases  (joins, aggregations, etc)
+	- [[JunoDB.excalidraw]]
+- Language of implementation
+	- It started as a single threaded C++ program but got re-written in Go     ---> similar to Redic (c) 
+		- Highly concurrent --> Goroutines (>> pthreads)
+		- multi-core friendly
+ - JunoDB is well suited for CPU heavy workloads
+- Availability
+	- JunoDB provides six 9s ~99.9999% of availability whicj means a downtime of just 31.56 seconds in one year
+- Scale 
+	- JunoDB handles 350B requests everyday ^8da2bd
+-  Common Use cases
+	- Caching --> JunoDB is often used in temporary cache 
+		- TTC from few seconds to few days
+		- user tokens --> no need to hit DB (auth) on every request
+		- account details --> no need to fetch account details every time
+		- API response --> no need to recompute responses every time
+		- user preference --> e.g., transaction list, recent activity
+			- notification preferences
+	- Idempotency --> avoid duplicate processing
+		- retries are painful
+		- we should not reproduces the request in case of  retries 
+			- no reprocess of payment
+			- no re-sending notification 
+	- Latency bridging
+		- JunoDB has really fast inter-cluster replication
+		- [[JunoDB.excalidraw#^9kVBK3jI]]
+		- Because of the instant replication JunoDB provides near-consistent reads
+		- How does this help ? 
+			- PayPal uses Oracle ass its primary database
+			- they have active-active setup across database
+			- [[JunoDB.excalidraw#^vQPD67Cc]]
+			- Because of this replication log, reads going to different DC might fail
+- #  [[High level architecture and System Design of JunoDB ]]
+	- ## [[How JunoDB is designed to scale horizontally]]

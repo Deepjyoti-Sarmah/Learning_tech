@@ -1,0 +1,23 @@
+[[How To Unlock Insane Focus On Command]]
+
+- [[2023-06-05#^2d37cb]]
+	- Parkinson's law
+	- Hour's don't equal outcomes
+	- fewer hours + skills (elimination prioritization) = more productivity
+	- Work compression
+		- reducing the number of hours you work
+	- Benefits of work compression
+		- Perceived importance
+			- Allows you to prioritize dramatically better
+			- Sequence things in order of importance
+			- eliminate things that are not going to produce results
+			- Determine how to do the things that are most important
+		- Challenge skill balance
+			- increase challenge demands increased skills
+			- Decrease hours increase the challenge ---> increase skill level
+			- Perceived importance + challenge skill balance = Better flow
+		- Recovery
+			- Consistency beats intensity
+	- ##### How to unlock 5x productivity ?
+		- lock your work hr in a box and don't break the box
+		- subtract hours multiply outputs

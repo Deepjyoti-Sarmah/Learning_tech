@@ -1,0 +1,93 @@
+ https://www.youtube.com/watch?v=hTt67PEpo88&list=TLPQMDEwNjIwMjNTsZ9JV2tq3g&index=2
+	- What is web3 ?
+		- Web3, or the decentralized internet, is the next step in the evolution of the internet, powered by the blockchain
+		- user-centric
+		- data-control
+		- decentralized authority
+		- open transparent 
+	- web3 vs web2
+		- Ownership and control of data
+		- power dynamics
+		- fiat and cryppto
+	- The social media state in 2023
+		- Role of major platform ---> facebook, youtube, twitter etc
+		- Centrallized control ---> platform control over data and algorithms
+		- Data Ownership ---> User data owned and monetized by platform
+		- UX in Web2 Social Media
+			- Personalized content (trageted ads)
+			- Platform Algorithm
+			- Limited Control on Personal database
+		- Issues in web2 social media
+			- data privacy concerns
+			- Lack of Transparency
+			- Platform Control (Censorship)
+		- Transition to Decentralized social media
+			- decentralized control
+				- Shift from centralized to decentralized control 
+				- user control over data and privacy
+			- Blockchain empowerment
+				- blockchain's role in decentralized social media
+				- transparency, security and user influenced
+	-  Social network and social graph ?
+		- Social network is a single application 
+		- Social graph is the network but also all the connection inside the network
+	- Lens Protocols
+		- web3 modular social graph on polygon blockchain
+		- empower creats to own the LINKS between themselves and their community, forming a composable, user-owned graph
+		- Add fixes
+		- immutable e content
+		- portability
+		- The portability issue
+			- twitter 9333 followers
+			- instagram 3
+		- many apps
+			- user-owned, open social graph any app can plug into
+			- user own their data: they can bring it to any app built on top of lens protocol
+			- each app benefits the whole ecosystem
+		- Platform control -- Censorship
+			- creators donot need to wory about losing everything based on the platform's algorithms and policies
+			- Developers can design meaningful social experiences without needing to turn to feedback mechanisms to lock in a user's attention
+		- Overview
+			- profile: lens profiles
+			- user: standard crypto-wallets
+			- Built from the ground up with modularity in mind
+			- Multisig
+		- Lens Protocol -- Profile creation
+			- User create a profile
+			- User receive an NFT
+			- NFT's owner is the profile's controller
+		- 3 Composable Tokenization layers
+			- LensHub contract: Interactions begin with the profile's NFT
+			- FollowNFT contract (followers): deployed upon a profile's first follow, unique to the profile
+			- CollectNFT contract (bookmark): deployed upon publication's first collect = collected publication
+		- Modules: standalone contracts
+			- They adhere to a specific interface and hold state
+				- Follow modules: tried to a profile: logic to be executed on a follow's attempt
+				- Collect modules: tied to specific publications. logic to be executed on a collect's attempt
+				- Reference modules: tied to specifix publications. Logic to be executed on a comment/mirror attempt
+		- What can profile owner do ?
+			- Set profile image URL
+			- Publish to the profile. Post, Comment, Mirror
+			- Set the follow module: define logic that must be executed on a follow attempt (add a fee)
+		- What can regular wallets do ?
+			- Follow profiles: Execute "follow module" logic (if any)
+			- Collect publications: Executes "collect module" logic
+		- Closing Notes #1
+			- Composable, modular social graph protocol
+			- It's built to be:
+				- community-owned
+				- ever-evolving
+			- User can decide how they want:
+				- there social graph to be build 
+				- how they want to monetize (if they want)
+		- It's a new paradigm of ownership and customization not possible, or financially feasible in web2
+	- Does it have to be on the Blockchain to be decentralized ??
+		- "Bluesky" is an initiative to develop a decentralized social network protocol, and an associated social networking service
+		- The AT Protocol 
+			- A new federated social network
+			- simple
+			- fast 
+			- open
+		- Federation
+			- A group of computing/network providers agreeing upon standards of operation in a collective fashion
+		- Research about it

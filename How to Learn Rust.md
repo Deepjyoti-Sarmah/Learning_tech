@@ -1,0 +1,17 @@
+- Rust isn't difficult, it's unfamiliar
+- Rust programming language book
+- Rust by example
+- Rustlings
+- Side Quest 1
+	- Ultra learning
+	- Test to learn
+- Side Quest 2
+	- Read the book twice
+	- install rustlings
+- Side Quest 3
+	- Haskell
+	- Learn you a Haskell for Great Good
+	- Real world haskell
+- How to think about rust syntax
+	- In other languages simple things are easy and complex things are possible, in Rust simple  things are possible and complex things are Easy
+	- [[RustVsJavascript.excalidraw]]

@@ -1,0 +1,66 @@
+- grep
+	- `grep "proxies=" file.txt`
+	- `grep -r "proxies=" file.txt`
+	- `grep -r "proxies=" file.txt ./ --include="*py"`
+- awk 
+		- `awk '{print}' programimng.txt`
+		- `awk '/types/ {print}' programming.txt`
+		- `awk '{print $2}' file.txt`
+		- `awk -F "," "{sum+=3} END {print sum}" shopping.s`
+- sed
+		- `sed 's/terminal/wrap' terminals.txt`
+		- `sed 's/terminal/wrap/2' terminals.txt
+- find
+		- `find ~/Documents ~name wallet.txt`
+- tar
+		- `tar -cvf awsome.tar CoolFiles/`
+		- Create new tar archive
+		- Verbosely show the progress
+		- File name type of the archive
+- curl
+		- `curl --request GET https://corporatebs-generator.sameerkumar.website`
+		- `curl http://warp.dev`
+- rsync
+		- framework
+		- rsync-option-source-destination
+		- `rsync -avzh root@138.197.148.79:/home/warp ./`
+		- a - archive mode
+		- v - verbose
+		- compressed file data
+		- human readable
+- diff
+		- `diff file1.txt file2.txt`
+		- `diff -c file1.txt file2.txt`
+- screen
+		-  `screen -S coding_rust`
+		- `ctrl+d+a`
+		- `screen -ls`
+- ps
+		- `ps -r`
+		- `ps -A`
+		- `ps -c lewisiscool`
+- dig
+		- `dig warp.dev`
+		- `dig wrap.dev +trace`
+		- `-x flag`
+		- head/ tail
+		- `head file.txt`
+		- `tail --follow file.txt`
+- df/ du
+	- df --> amount of display amount of space available
+	- du--> reports space usage by files and directories
+	- `df -h`
+	- `df -h --total|grep ^total` 
+	- `du -hs filename`
+	- `du -ah --time`
+- top/htop
+- chown/chmod
+	- chown --> change ownership of the file and directory in filesystem
+	- `sudo chown me myfile.txt`
+	- chmod --> changes permissions of files and directort in filesystem
+	- 754 --> user, groups, others
+	- 4 = read
+	- 2 = write
+	- 1 = execute
+	- 0 = "no permission"
+- [[2023-06-03]]

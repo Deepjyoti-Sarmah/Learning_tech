@@ -1,0 +1,15 @@
+- Five principles of a successful job search
+	- Assume responsibility
+		- Take control of every single part of job search don't leave your fate up to others
+	- Use a system
+		- Don't try a little bit of everything
+		- don't use random tactics,  use a systematic process 
+	- focus on the front end
+			 take the time to work on the right things from the start, even if they dont deliver immediate results
+	- think about what others want
+		- get inside your future boss's head and give them what tthey want
+		- dont make them have to think about what you can offer them , as they are too busy for that. Offer them the solution
+	- Display competence 
+		- come off as confident and friendly, even if you have to put in a lot of practice to do so
+	- RAND ---> Random Act of nonproductive Demeanour
+		- 

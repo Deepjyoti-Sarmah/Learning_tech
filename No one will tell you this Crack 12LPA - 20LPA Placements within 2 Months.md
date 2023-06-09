@@ -1,0 +1,37 @@
+- Practice the most asked interview questions
+	- keep solving questions along with the tutorials
+	- Do generic problems rather than competitive programming
+	- Go through the previous interview Experiences
+	- Make projects from youtube tutorial
+	- never underestimate the aptitude assessments
+	- #### 60 days plan 50 days + 10 days
+		- ##### Data Structure
+			- Array
+			- Linked list
+			- Stacks and queues
+			- Heap
+			- Hash Maps
+			- Binary Tree
+			- BST
+			- Graph
+			- Trie
+		- #### Algorithm
+			- Recursion
+			- Backtracking
+			- Sorting Algorithm
+			- Bits Manipulation
+			- Binary Search
+			- Greedy Algorithm
+			- Dynamic Programming
+		- #### CORE SUBJECTS
+			- Operating System
+			- RDBMS
+			- OOP
+		- #### SCORE CARD
+			- Easy --->100
+			- Medium ---> 300
+			- Hard ---> 600
+		- #### Generic Problems
+			- GFG, Leetcode
+			- Most Asked Problems
+- [[2023-06-02]]

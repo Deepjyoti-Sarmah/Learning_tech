@@ -1,0 +1,34 @@
+[[Overview of JunoDB - an open source KV store by PayPal]]
+- Storage Servers
+	- JunoDB stores the data on Storage server <-- where data resides
+	- These servers accept the operation and make changes to data
+		- They can store the data in-memory or disk
+	- JunoDB is not a pure in-mem store
+	- Data is split inot partitions (aslo called shards) and each storage server is responsible for a bunch of them
+	- [[JunoDB.excalidraw#^uSn7OcjU]]
+	- RockerDB Instance
+		- Request comes to storage
+		- if figures out which shard owns it
+		- it writes/reads data from shard
+		- [[JunoDB.excalidraw#^f6QO1ndv]]
+	- Data ownership
+		- we now need to answer which storage server owns which shard?
+		- JunoDB uses consistent haashing to ans this
+			- minimal data movement
+			- truly elastic
+			- [[JunoDB.excalidraw#^0309kaXX]]
+	- JunoDB Proxy
+		- We have two ways through which client can talk to storage servers
+			- client directly talking to ss
+			- client talk to proxy which talks to ss
+		- JunoDB is a proxy based database
+			- abstracts out storage topology from client
+			- [[JunoDB.excalidraw#^raIRdYM2]]
+		- Advantages
+			- storage topology is abstracted
+			- client need not connect to all storage server
+			- minimal config on clients
+		- Is proxy a single machine
+			- No Juno can have multiple Juno proxy which can be put behind L..B.
+			- overall architecture looks something like 
+			- [[JunoDB.excalidraw#^OpY86mPW]]

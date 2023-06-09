@@ -32,7 +32,6 @@
 		{"type":"text","text":"deploy","id":"52669028a1369a10","x":-690,"y":1940,"width":165,"height":60,"color":"2"},
 		{"type":"text","text":"CLI Parser","id":"0e056b513ce1a9a2","x":-565,"y":1760,"width":250,"height":60,"color":"3"},
 		{"type":"text","text":"Mycontraact.sol","id":"e7a80f391ecd038b","x":-360,"y":1940,"width":215,"height":60,"color":"2"},
-		{"type":"text","text":"user","id":"556dca4eb46b5fb0","x":-1305,"y":1940,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"byte code","id":"13b53050f34481c2","x":-60,"y":2120,"width":140,"height":60,"color":"4"},
 		{"type":"text","text":"Compiled contract artifaacts","id":"67c110bbd7a4babc","x":-5,"y":1940,"width":250,"height":80,"color":"2"},
 		{"type":"text","text":"ABI","id":"de73110bb1ec97b8","x":158,"y":2120,"width":95,"height":60,"color":"4"},
@@ -65,7 +64,8 @@
 		{"type":"text","text":"third party web front-end","id":"e77d6ea9c1797058","x":-477,"y":310,"width":250,"height":80,"color":"6"},
 		{"type":"file","file":"Daily-logs/2023-05-24.md","id":"0dc0503574d49eee","x":45,"y":2470,"width":595,"height":760},
 		{"type":"file","file":"Daily-logs/2023-05-23.md","id":"def5016b3c32be9d","x":850,"y":2465,"width":550,"height":770},
-		{"type":"text","text":"Blockchain node","id":"ca2044b4c1298743","x":-259,"y":560,"width":250,"height":60,"color":"5"}
+		{"type":"text","text":"Blockchain node","id":"ca2044b4c1298743","x":-259,"y":560,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"user","id":"556dca4eb46b5fb0","x":-1325,"y":1980,"width":250,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"76aa89c0ffc0316e","fromNode":"aafe42f1365a3d79","fromSide":"left","toNode":"e90fd0bc549fad84","toSide":"right"},

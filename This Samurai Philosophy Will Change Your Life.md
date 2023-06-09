@@ -1,0 +1,8 @@
+- No-Mind: Don't think just  do 
+- Make your actions effect-less
+- Intuition: Cultivating and trusting your intuition
+	- Sleep to completion
+	- Meditate as much as possible
+	- focus on doing one thing at a time
+	- Spend time in nature/ in place that fill you with awe
+	- If it feels Weird, Do it

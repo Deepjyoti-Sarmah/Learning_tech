@@ -1,0 +1,5 @@
+- Have a portfolio website is important
+- Have multiple micro apps in your resume
+- building utility around these applications
+- your project should match your resume
+- open source your project properly
