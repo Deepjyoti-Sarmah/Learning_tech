@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-logs/2023-06-09.md",
+                "file": "Daily-logs/2023-06-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f040bf1c8168bcf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Achieve More in 1 Week than Most People Do in 12 Months.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-logs/2023-06-09.md",
+                "file": "How To Master Job Search as a Developer - Actionable Step-by-Step Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-logs/2023-06-09.md",
+                "file": "How To Master Job Search as a Developer - Actionable Step-by-Step Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-logs/2023-06-09.md"
+                "file": "How To Master Job Search as a Developer - Actionable Step-by-Step Course.md"
               }
             }
           },
@@ -190,11 +203,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b845138483619658",
+  "active": "4a01c327622b6128",
   "lastOpenFiles": [
-    "Daily-logs/2023-06-09.md",
     "Hacking your brain with elaborate coping mechanisms.md",
+    "Daily-logs/2023-06-12.md",
+    "How to Achieve More in 1 Week than Most People Do in 12 Months.md",
     "How To Master Job Search as a Developer - Actionable Step-by-Step Course.md",
+    "Excalidraw/autism_and_ADHD.excalidraw.md",
+    "TOP 7 HIGHEST Paying Jobs In India 2023 + FREE COURSES 🔥🚀.md",
+    "How To Control Your Dopamine For Hyper-Focus And Flow State.md",
+    "Stoicism.md",
+    "Daily-logs/2023-06-11.md",
+    "Daily-logs/2023-06-10.md",
+    "Daily-logs/2023-06-09.md",
     "How I Tripled My Productivity By Doing Less - The Work Compression Method.md",
     "Excalidraw/Drawing 2023-06-06 12.26.17.excalidraw.md",
     "8 Most Important Character Traits Of Successful People.md",
@@ -210,15 +231,7 @@
     "Daily-logs/2023-06-05.md",
     "This RESUME got me offers from Google, Amazon, Swiggy....md",
     "Daily-logs/2023-06-04.md",
-    "15 Terminal Commands that will BOOST your Productivity.md",
-    "Daily-logs/2023-05-07.md",
-    "How to Self-Study Programming.md",
-    "Daily-logs/2023-06-03.md",
-    "The framework to build the best developer portfolio.md",
-    "Excalidraw/ownership_Rust.excalidraw.md",
     "entity_component_system_Wrap_RUST.canvas",
-    "Daily-logs/2023-06-02.md",
-    "Daily-logs/2023-06-01.md",
     "Drone/Screenshot from 2023-05-26 21-02-39.png",
     "Drone/546-550,Tesma504,IJEAST.pdf",
     "Drone/Screenshot from 2023-05-27 23-51-56.png",

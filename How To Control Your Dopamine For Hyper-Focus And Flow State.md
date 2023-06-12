@@ -1,0 +1,25 @@
+[[2023-06-12]]
+- Dopamine
+	- The problem with dopamine detoxing
+	- Dopamine is rewarding
+	- It's not simulation that you want ---> It's the dopamine that the stimulation squirts that you want
+	- Dopamine re-sensitization
+	- Low sensitivity to reward ---> you need lots of stimulation to capture your attention
+	- High sensitivity to reward ---> you need less stimulation to capture your attention 
+	- How to calibrate your sensitivity to reward ?
+		- take boring breaks
+			- Modify how we take breaks
+			- dropping the bar
+			- lets things simmer
+		- Inhabit the inbetween
+			- what you did the last time ? 
+			- bring yourself to present
+			-  just sit quietly
+			- your baseline for what's boring will shift
+		- Do everything one thing at a time
+			- default mode network 
+			- task positive network
+			- superpower for flow
+			- Higher the reward = easier to shift
+			- focus one thing at a time
+			- once at a time

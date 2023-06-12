@@ -1,0 +1,10 @@
+- https://www.youtube.com/watch?v=34fp5QO9Yz8&list=TLPQMTIwNjIwMjOLD7zp1uql7Q&index=2
+	- Tying to reduce the amount of unfairness, randomness and unjustness
+	- Change the way you think about these situations
+	- radical acceptance
+	-  Stoicism
+		- events you can control 
+		- events you can't control
+		- Everything is a lesson as long as you remember that it's a lesson
+	- Memento Mori
+	- I shall meet with meddling , ungreatful, violent, treacherous, envious and unsocialable people
