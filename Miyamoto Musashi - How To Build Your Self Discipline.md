@@ -1,0 +1,34 @@
+- Avoid doing things just because they feel good
+	- Do not seek pleasure for its own sake
+	- Miyamoto knew that greatness had a price, and he needed to pay it, no matter how expensive it was
+	- Indulging in pleasure steals time from us
+	- Time well spent is when you do  something that matters, and that feeling has no equal
+- Focus on one thing
+	- Practice and understand the realization that by knowing one way, you know a thousand
+	- Even though Miyamoto learned just one art, he knew how to express it in thousands of ways
+	- Your mission to find the path where you'll feel fulfilled will always be in restart mode
+	- Give yourself time to truly grasp what's in your hand
+	- Do not feel contempt by knowing just the superficial aspect of a discipline ; the beauty of it is ingrained inside
+	- We should dedicate our time to one skill and make thousands of ways out of it
+- Stay focused
+	- never stray from the way
+	- Miyamoto was a man of almost surreal amounts of self-control, determination, and  discipline
+	- Prioritized what is useful to you 
+		- Taste life in a much deeper way 
+	- If you aren't feeling at-least some anxiety or fear then chances are you're not pushing yourself outside of your comfort zone at all
+	- Some fear is a good thing --> It's a sign your eyes are fully open
+	- With time and discipline, you'll discover the most amazing lost treasures, right infont of you
+- Live with integrity and preserve your honor
+	- You may abandon your own body but you must reserve your honor
+	- Bushido
+		- Set of virtues that one might follow in order to live a moral and noble life
+			- Respect
+			- Integrity
+			- Honesty
+			- Honor
+			- Courage
+			- Compassion
+			- Loyalty
+	- Honor and discipline are both cut from the same cloth and developing one often leads directly to improving the other
+	- Wasting time on punishing yourself is no different to distracting oneself with immediate pleasures
+	- Living honorably and living with discipline is the remedy to our greed, covetousness, and selfishness 

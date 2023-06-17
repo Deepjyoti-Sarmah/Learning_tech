@@ -1,0 +1,9 @@
+- https://www.youtube.com/watch?v=K-ssUVyfn5g&list=TLPQMTMwNjIwMjMlfwf-Kgqdqw&index=1
+	-  CODE System
+	- C --> Capture
+		- Your brain is for having ideas, not for holding them
+	- O --> Organise
+		- Where will I potentially use this information ? 
+	- D --> Distill
+		- Progressive Summarisation
+	- E --> Express

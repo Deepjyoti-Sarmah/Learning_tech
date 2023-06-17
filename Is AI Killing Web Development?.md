@@ -1,0 +1,21 @@
+- https://www.youtube.com/watch?v=BGvamNku3-o&list=TLPQMTMwNjIwMjMlfwf-Kgqdqw&index=2&pp=gAQBiAQB
+	- Fundamentals are important
+	- Thinking from first principles
+	- Hiring will go nicher
+	- The zerodha philosophy
+		- website - End to End
+		- Backend - end to end
+		- Mobile App - End to end
+	- Beyond web development
+		- hotstar/youtube --> Livestreaming
+		- Canva --> Frontend optimizations
+		- Google Docs --> Syncing Texts
+		- Zerodha --> Orderbook
+		- Subtrack --> Newsletter System
+	- What bet would i take today
+		- low latency trading systems
+		- web 3.0
+	- What bets should you take ? 
+		- Beginner
+		- Know web dev
+		- Advanced

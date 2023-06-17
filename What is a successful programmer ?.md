@@ -1,0 +1,5 @@
+- https://www.youtube.com/watch?v=KneU5Eif0vo&list=TLPQMTYwNjIwMjOpWdEweT9j1A&index=2
+	- Its about the iteration between lines
+	- the death of ego
+	- get comfortable of being uncomfortable
+	- get your mind from reading and get it towards building
