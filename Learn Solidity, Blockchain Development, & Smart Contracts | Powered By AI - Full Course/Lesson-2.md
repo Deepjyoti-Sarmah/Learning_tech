@@ -1,2 +1,16 @@
 - [[Lesson-1#^4d942c]]
+-  [[2023-06-16#^3b77fc]]
+- Arrays and structs
+-  Errors and warnings
+ - Memory, storage and calldata intro
+- EVM Overview
+		- Stack
+		- Memory --> can be changed , temporary storage variable
+		- Storage --> storage is permanent variable can be modified
+		- Calldata --> cannot be changed, temporary storage variable
+		- Code 
+		- Logs
+- Basic solidity mappings
+- EVM --> Ethereum virtual machine 
+- Quize - done
 - 

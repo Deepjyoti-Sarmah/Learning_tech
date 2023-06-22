@@ -1,0 +1,18 @@
+- [[2023-06-18#^5989ee]]
+- - book - film directing shot by shot
+	- Hegelian dialectics
+	- Thesis ---> Antithesis ---> Synthesis
+	- https://www.youtube.com/watch?v=51_dGSZUbGA&list=TLPQMTgwNjIwMjNk-ROwEEC-AQ&index=2
+	- Objective 
+	- Implicit
+	- Contextual
+	- Subjective ^5989ee
+	- - https://www.youtube.com/watch?v=51_dGSZUbGA&list=TLPQMTgwNjIwMjNk-ROwEEC-AQ
+	- Objective 
+		- space 
+		- texture 
+		- color
+	- implicit
+		- perspective
+	- Contextual
+	- subjective
